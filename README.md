@@ -15,21 +15,21 @@ General Information
 
 ## Contents
 
-**Ant Colony Optimization**
+**ANT COLONY OPTIMIZATION**
 
-**Artificial Bee Colony**
+**ARTIFICIAL BEE COLONY**
 
-**Simulated Annealing**
-An experiment to discover the effects of various step and temperature updates in Simulated Annealing.
+**SIMULATED ANNEALING**
+<br>An experiment to discover the effects of various step and temperature updates in Simulated Annealing.
 
 Step Update Algorithm
-[x] Normal step update
+- [x] Normal step update
 
 Temperature Update Algorithm
-[x] Classical temperature update
-[x] Logarithmic temperature update
-[x] Fast temperature update
-[x] Timberwolf temperature update
+- [x] Classical temperature update
+- [x] Logarithmic temperature update
+- [x] Fast temperature update
+- [x] Timberwolf temperature update
 
 ## Author Detail Information
 **NICHOLAS DOMINIC**

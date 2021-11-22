@@ -16,6 +16,24 @@ General Information
 ## Contents
 
 > **ANT COLONY OPTIMIZATION**
+<br>An experiment to simulate Ant Colony Optimization algorithms, given the  relative importance of pheromone, relative importance of heuristic information, pheromone residual coefficient, pheromone intensity, and pheromone update strategy.
+
+Ant Colony algorithms
+- [x] Ant System
+- [x] Ant Density
+- [x] Ant Quantity
+- [ ] Ant Colony System
+- [ ] Max-Min Ant System
+- [ ] Best-Worst Ant System
+- [ ] Ant-Q
+- [ ] Fast Ant System
+- [ ] ANTabu
+- [ ] Rank-based Ant System
+- [ ] Elitist Ant System
+- [ ] Approximate Non-deterministic Tree Search (ANTS)
+- [ ] Recursive Ant Colony
+- [ ] Continuous Orthogonal Ant Colony
+- [ ] Hypercube Framework
 
 > **ARTIFICIAL BEE COLONY**
 <br>An experiment to find the global minimum of the given Rosenbrock function. In addition, I discovered the effects of different swarm/colony sizes and number of execution iterations in Artificial Bee Colony.

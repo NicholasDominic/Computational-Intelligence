@@ -15,17 +15,17 @@ General Information
 
 ## Contents
 
-**ANT COLONY OPTIMIZATION**
+> **ANT COLONY OPTIMIZATION**
 
-**ARTIFICIAL BEE COLONY**
+> **ARTIFICIAL BEE COLONY**
 
-**SIMULATED ANNEALING**
+> **SIMULATED ANNEALING**
 <br>An experiment to discover the effects of various step and temperature updates in Simulated Annealing.
 
-> Step Update Algorithm
+Step Update Algorithm
 - [x] Normal step update
 
-> Temperature Update Algorithm
+Temperature Update Algorithm
 - [x] Classical temperature update
 - [x] Logarithmic temperature update
 - [x] Fast temperature update

@@ -18,6 +18,10 @@ General Information
 > **ANT COLONY OPTIMIZATION**
 
 > **ARTIFICIAL BEE COLONY**
+<br>An experiment to find the global minimum of the given Rosenbrock function. In addition, I discovered the effects of different swarm/colony sizes and number of execution iterations in Artificial Bee Colony.
+
+Library used:
+- [x] [beecolpy](https://pypi.org/project/beecolpy/)
 
 > **SIMULATED ANNEALING**
 <br>An experiment to discover the effects of various step and temperature updates in Simulated Annealing.
